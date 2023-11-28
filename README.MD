@@ -1,7 +1,7 @@
 # Node.js FTP SERVER
 
 ### About
-Demo - demo ftp sever
+Demo - ftp sever
 ### Start
 - npm install
 - npm run start
